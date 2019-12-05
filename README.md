@@ -71,15 +71,15 @@ endmodule</code></pre>
 
 ## 6. 결과
 ### 1. 
-![image](https://user-images.githubusercontent.com/58457978/70213968-e6dfd100-177d-11ea-855b-e92d199f9b45.png)
-S=N3=N2=N1=N0=1
-넣은 돈 : 1200원
-음료수 : 700원짜리 음료수
-거스름돈 : 1200원 – 700원 = 500원
+![image](https://user-images.githubusercontent.com/58457978/70213968-e6dfd100-177d-11ea-855b-e92d199f9b45.png)  
+S=N3=N2=N1=N0=1  
+넣은 돈 : 1200원  
+음료수 : 700원짜리 음료수  
+거스름돈 : 1200원 – 700원 = 500원  
 
 ### 2.
-![image](https://user-images.githubusercontent.com/58457978/70213971-e8a99480-177d-11ea-86f6-2a71589fab39.png)
-S=N3=N2=1, N1=N0=0
-넣은 돈 : 900원
-음료수 : 700원짜리 음료수
+![image](https://user-images.githubusercontent.com/58457978/70213971-e8a99480-177d-11ea-86f6-2a71589fab39.png)  
+S=N3=N2=1, N1=N0=0  
+넣은 돈 : 900원  
+음료수 : 700원짜리 음료수  
 거스름돈 : 900원 – 700원 = 200원
